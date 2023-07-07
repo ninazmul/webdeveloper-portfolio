@@ -103,7 +103,7 @@ nav a{
 .about{
     padding: 100px;
     border-radius: 10px;
-    background: whitesmoke;
+    background: wheat;
     border: #FD6E0A solid;
     margin: 130px;
     text-align: center;
@@ -113,6 +113,8 @@ p{
 }
 .section-title{
     margin-bottom: 20px;
+    text-align: center;
+    /* margin-top: 150px; */
 }
 .about-info-c{
     display: flex;
@@ -121,4 +123,54 @@ p{
 }
 .about-info{
     text-align: center;
+}
+.wid{
+    text-align: center;
+    margin: 130px;
+    padding: 100px;
+    border-radius: 10px;
+    border: #FD6E0A solid;
+    background: wheat;
+}
+.section-title2{
+    margin-bottom: 20px;
+    font-size: 45px;
+}
+.skill-c{
+    display: flex;
+    justify-content: space-between;
+}
+.skill{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: #FD6E0A solid;
+    border-radius: 10px;
+    background: wheat;
+}
+.h3-title{
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+.skill-des{
+    margin-top: 10px;
+}
+main{
+    
+}
+.resume-col-title{
+    color: black;
+font-family: Open Sans;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+/* display: flex; */
+}
+.resume-c{
+    display: flex;
+    
+}
+.mar{
+    margin-top: 150px;;
 }
