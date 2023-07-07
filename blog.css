@@ -1,0 +1,53 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.red-dot {
+    color: #FD6E0Aed;
+}
+h3{
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+*{
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+nav > ul{
+    display: flex;
+    
+}
+nav li{
+    list-style: none;
+    margin-right: 15px;
+}
+nav a{
+    text-decoration: none;
+    color: var(--dark-02, #474747);
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.btn{
+    color: var(--white-color, #FFF);
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    width: 110px;
+    height: 45px;
+    /* flex-shrink: 0; */
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: none;
+}
