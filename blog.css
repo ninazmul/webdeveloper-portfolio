@@ -114,3 +114,11 @@ p{
 .section-title{
     margin-bottom: 20px;
 }
+.about-info-c{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.about-info{
+    text-align: center;
+}
