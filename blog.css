@@ -169,8 +169,46 @@ line-height: normal;
 }
 .resume-c{
     display: flex;
+    /* justify-content: top; */
+    align-items: top;
+    margin: 10px;
+    padding: 150px;
+    
     
 }
 .mar{
     margin-top: 150px;;
+}
+.resume-col{
+/* display: flex; */
+margin: 20px;
+/* width: 400px; */
+}
+.resume-i-t{
+    font-size: 25px;
+    font-weight: 700px;
+    margin-bottom: 10px;
+    color: black;
+}
+.resume-i-i, .resume-i-d{
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resume-c hr{
+    margin: 30px;
+}
+.resume-i-i{
+    margin-bottom: 20px;
+    margin-top: 0px;
+    font-size: 20px;
+}
+.download-cv{
+  text-align: center;
+  margin-top: 0px;
+}
+footer{
+    display: flex;
+    padding: 100px;
+    align-items: center;
 }
